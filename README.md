@@ -40,6 +40,14 @@ Each division within Fabled Sky has its own identifier. These should be used in 
 | **CSR Green**        | `#008143`   | Corporate Social Responsibility – environmental and sustainability projects. |
 | **Research Red**     | `#AA5353FA` | Specialized research, alerts, and high-priority studies.                     |
 
+### Example Font Colors
+
+- <span style="color:#050E1A;">Fabled Sky Base Navy (#050E1A)</span>
+- <span style="color:#3B89D1;">Secondary Blue (#3B89D1)</span>
+- <span style="color:#E2B400;">AI Yellow (#E2B400)</span>
+- <span style="color:#00A380;">STEM Green (#00A380)</span>
+- <span style="color:#BB00FF;">UAV Pink (#BB00FF)</span>
+
 ---
 
 ## **Supporting Header Colors**
