@@ -42,11 +42,22 @@ Each division within Fabled Sky has its own identifier. These should be used in 
 
 ### Example Font Colors
 
-- <span style="color:#050E1A;">Fabled Sky Base Navy (#050E1A)</span>
-- <span style="color:#3B89D1;">Secondary Blue (#3B89D1)</span>
-- <span style="color:#E2B400;">AI Yellow (#E2B400)</span>
-- <span style="color:#00A380;">STEM Green (#00A380)</span>
-- <span style="color:#BB00FF;">UAV Pink (#BB00FF)</span>
+| Color | Name | HEX |
+|-------|------|-----|
+| <svg width="20" height="20"><rect width="20" height="20" fill="#050E1A" /></svg> | Fabled Sky Base Navy | `#050E1A` |
+| <svg width="20" height="20"><rect width="20" height="20" fill="#3B89D1" /></svg> | Secondary Blue | `#3B89D1` |
+| <svg width="20" height="20"><rect width="20" height="20" fill="#D1D1D1" /></svg> | Text Gray | `#D1D1D1` |
+| <svg width="20" height="20"><rect width="20" height="20" fill="#61CE70" /></svg> | Accent Green | `#61CE70` |
+| <svg width="20" height="20"><rect width="20" height="20" fill="#BB00FF" /></svg> | UAV Pink | `#BB00FF` |
+| <svg width="20" height="20"><rect width="20" height="20" fill="#E2B400" /></svg> | AI Yellow | `#E2B400` |
+| <svg width="20" height="20"><rect width="20" height="20" fill="#AC8F67" /></svg> | Solitary Ops Tan | `#AC8F67` |
+| <svg width="20" height="20"><rect width="20" height="20" fill="#00A380" /></svg> | STEM Green | `#00A380` |
+| <svg width="20" height="20"><rect width="20" height="20" fill="#6997FF" /></svg> | Advisory Blue | `#6997FF` |
+| <svg width="20" height="20"><rect width="20" height="20" fill="#008143" /></svg> | CSR Green | `#008143` |
+| <svg width="20" height="20"><rect width="20" height="20" fill="#AA5353" /></svg> | Research Red | `#AA5353` |
+| <svg width="20" height="20"><rect width="20" height="20" fill="#76A4CF" /></svg> | Header Blue | `#76A4CF` |
+| <svg width="20" height="20"><rect width="20" height="20" fill="#AA9C88" /></svg> | Header Tan | `#AA9C88` |
+
 
 ---
 
